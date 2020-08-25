@@ -1,0 +1,14 @@
+exercícios aula 1
+
+1)
+a) git init: Esse comando cria um novo repositório no git.
+b) git clone: é um comando que seleciona um repositório existente e cria um clone.
+c) git branch: lista todas as branchs do repositório.
+d) git checkout: alterna para determinada branch
+e) git fetch: busca alterações mais recentas da branch armazenadas no repositório remoto.
+f) git pull: busca as aterações do repositório remoto e incorpora no local(faz merge).
+g) git add: adiciona todas as mudanças executadas no diretório.
+h) git commit: abre o editor de texto para adicionar a mensagem do commit.
+i) git push: faz push de commits do branch local para repositório remoto.
+
+2)O git fetch busca as alterações mais recentes da branch armazenada, porém, o git pull além disso também incorpora no local (merge).
